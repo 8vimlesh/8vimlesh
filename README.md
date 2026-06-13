@@ -1,4 +1,4 @@
-## 🚀 About Me<br><br>Hi, I'm Vimlesh , an engineering student passionate about technology, data analytics, Artificial Intelligence, Machine Learning, and software development. I enjoy building impactful projects, solving real-world problems, and continuously expanding my skills through hands-on learning.<br><br>💻 Tech Stack: Python, Pandas, NumPy, SQL, MySQL, Power BI, Git, GitHub, Data Visualization, DBMS<br><br>🤖 Currently Learning: Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Neural Networks, TensorFlow, Scikit-learn<br><br>📊 Turning data into insights • 🧠 Exploring intelligent systems • 🚀 Building and learning every day<br>
+## 🚀 About Me<br><br>Hi, I'm Vimlesh , an engineering student passionate about technology, data analytics, Artificial Intelligence, Machine Learning, and software development. I enjoy building impactful projects, solving real-world problems, and continuously expanding my skills through hands-on learning.<br><br>📊 Turning data into insights • 🧠 Exploring intelligent systems • 🚀 Building and learning every day<br>
 
 
 ## 🌐 Socials:
