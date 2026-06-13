@@ -1,4 +1,4 @@
-## 🚀 About Me<br><br>Hi, I'm Vimlesh , an engineering student passionate about technology, data analytics, Artificial Intelligence, Machine Learning, and software development. I enjoy building impactful projects, solving real-world problems, and continuously expanding my skills through hands-on learning.<br><br>📊 Turning data into insights • 🧠 Exploring intelligent systems • 🚀 Building and learning every day<br>
+## 🚀 About Me<br><br>Hi, I'm Vimlesh , an engineering student passionate about technology, data analytics, Artificial Intelligence, Machine Learning, and software development. I enjoy building impactful projects, solving real-world problems, and continuously expanding my skills through hands-on learning.<br><br> • 🚀 Building and learning every day<br>
 
 
 ## 🌐 Socials:
